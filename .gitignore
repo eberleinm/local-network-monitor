@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+network_monitor.db
+network_monitor.db-shm
+network_monitor.db-wal
